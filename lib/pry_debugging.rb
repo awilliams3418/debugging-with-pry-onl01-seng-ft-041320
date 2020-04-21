@@ -3,6 +3,8 @@ def plus_two(num)
 	num
 end 
 
-	def sum_two(n)
+def sum_two(n)
   return n+2
+end
+
 puts sum_two(3) 
