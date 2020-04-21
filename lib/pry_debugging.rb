@@ -1,7 +1,6 @@
 def plus_two(num)
 	2 + num
 	num
-	commit
 end 
 
 def sum_two(n)
