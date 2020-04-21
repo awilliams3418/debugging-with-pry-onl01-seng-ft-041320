@@ -1,7 +1,7 @@
 def plus_two(num)
 	num + 2
 	num
-	binding.pry
+	commit
 end 
 
 def sum_two(n)
